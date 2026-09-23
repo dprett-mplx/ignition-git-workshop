@@ -39,3 +39,5 @@
 
 # Alarm history files
 **/.alarms_*
+
+**/ignition.conf
